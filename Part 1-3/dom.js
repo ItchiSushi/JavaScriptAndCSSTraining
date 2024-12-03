@@ -87,3 +87,23 @@ for(var i = 0; i < odd.length; i++){
     even[i].style.backgroundColor = '#ccc';
 }*/
 
+// TRAVERSING THE DOM //
+
+var itemList = document.querySelector('#items');
+
+// parentNode
+
+// console.log(itemList.parentNode);
+// itemList.parentNode.style.backgroundColor = '#f4f4f4';
+// console.log(itemList.parentNode.parentNode.parentNode);
+
+// parentElement
+
+// console.log(itemList.parentElement);
+// itemList.parentNode.style.backgroundColor = '#f4f4f4';
+// console.log(itemList.parentElement.parentElement.parentElement);
+
+// childNodes
+
+
+
