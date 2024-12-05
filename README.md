@@ -2,7 +2,7 @@
 
 <h2>Descrption</h2>
 
-<p>This repo contains my JavaScript and CSS pracitices, and strong understanding of the DOM (Document Object Model) and how JavaScript can be used to manipulate elements on a website.</p>
+<p>This repo contains my JavaScript and CSS pracitices, and strong understanding of the DOM (Document Object Model), jQuery, AJAX, and how JavaScript can be used to manipulate elements on a website.</p>
 
 <h2>Tools and Languages:</h2>
 
@@ -12,3 +12,5 @@
 - CSS 3
 - JavaScript 
 - BootStrap 5
+- jQuery
+- AJAX
